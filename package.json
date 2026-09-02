@@ -1,0 +1,10 @@
+{
+    "name": "lora-hackrf-check",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Detect RF activity on a LoRa channel with HackRF One",
+    "type": "commonjs",
+    "scripts": {
+        "check": "node lora-check.js"
+    }
+}
